@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":";;;AAAA,aACA,QAAA,wCACA,QAAA","file":"app.js","sourceRoot":"..","sourcesContent":["'use strict';\nimport 'bootstrap/dist/css/bootstrap.min.css';\nimport './style.scss';\n"]}
